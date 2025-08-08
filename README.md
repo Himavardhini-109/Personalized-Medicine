@@ -1,6 +1,6 @@
 # Personalized-Medicine
 A machine learning model that predicts treatment effectiveness for personalized medicine based on patient characteristics and genetic markers.
- ##👨‍💻 Developer Information
+ ## 👨‍💻 Developer Information
  - **Name**:O.Himavardhini
  - **Roll No**:222T1A3140
  - **Institution**:Ashoka Womens Engineering College
